@@ -1,5 +1,5 @@
 <?php
-	//WHILE
+	//WHILE 
 	$i=0;
 	$tamanho=10;
 	$vet=array($tamanho);
