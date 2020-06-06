@@ -1,5 +1,5 @@
 <?php
-    // COMANDOS PRIMÁRIOS
+    // INSERT
     include "conexao.inc";
     $vnome="Pedro Lucas";
     $vusername="LucasWPL6";
@@ -16,10 +16,10 @@
 ?>
 
 <html>
-<head>
-	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-	<title>Aula 30</title>
-</head>
-<body>
-</body>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+        <title>Aula 30</title>
+    </head>
+    <body>
+    </body>
 </html>
